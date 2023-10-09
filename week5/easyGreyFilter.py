@@ -1,5 +1,5 @@
 def setup():
-    size(400, 400)
+    size(200, 200)
     img = load_image("me3.jpg")
     img.load_pixels()
     pixel = img.pixels
